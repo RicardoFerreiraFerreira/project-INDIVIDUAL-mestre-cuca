@@ -1,0 +1,12 @@
+[
+    {
+      "type": "Countries",
+      "imagePath": "/assets/planet.png",
+      "_id": 1
+    },
+    {
+      "type": "Categories",
+      "imagePath": "/assets/meats.jpeg",
+      "_id": 2
+    }
+]  

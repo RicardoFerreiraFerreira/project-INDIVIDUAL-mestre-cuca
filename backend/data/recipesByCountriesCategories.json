@@ -1,0 +1,45 @@
+[
+    {
+        "strAreaCategory": "American",
+        "type": "Countries",
+        "strMeal": "15-minute chicken & halloumi burgers",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/vdwloy1713225718.jpg",
+        "_id": "53085"
+    },
+    {
+        "strAreaCategory": "British",
+        "type": "Countries",
+        "strMeal": " Bubble & Squeak",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/xusqvw1511638311.jpg",
+        "_id": "52885"
+    },
+    {
+        "strAreaCategory": "Japanese",
+        "type": "Countries",
+        "strMeal": "Chicken Karaage",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg",
+        "_id": "52831"
+    },
+    {
+        "strAreaCategory": "Beef",
+        "type": "Categories",
+        "strMeal": "Beef and Mustard Pie",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/sytuqu1511553755.jpg",
+        "_id": "52874"
+    },
+    {
+        "strAreaCategory": "Seafood",
+        "type": "Categories",
+        "strMeal": "Baked salmon with fennel & tomatoes",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+        "_id": "52959"
+    },
+    {
+        "strAreaCategory": "Vegetarian",
+        "type": "Categories",
+        "strMeal": "Baingan Bharta",
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+        "idMeal": "52807"
+    }
+
+]

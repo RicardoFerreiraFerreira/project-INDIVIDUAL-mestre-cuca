@@ -1,0 +1,39 @@
+
+[
+    {
+        "strAreaCategory": "American",
+        "type": "Countries",
+        "imagePath": "/assets/american.jpg",
+        "_id": 1
+    },
+    {
+        "strAreaCategory": "British",
+        "type": "Countries",
+        "imagePath": "/assets/british.jpeg",
+        "_id": 2
+    },
+    {
+        "strAreaCategory": "Japanese",
+        "type": "Countries",
+        "imagePath": "/assets/japanese.jpg",
+        "_id": 3
+    },
+    {
+        "strAreaCategory": "Beef",
+        "type": "Categories",
+        "imagePath": "/assets/beef.jpg",
+        "_id": 4
+    },
+    {
+        "strAreaCategory": "Seafood",
+        "type": "Categories",
+        "imagePath": "/assets/seafood.jpg",
+        "_id": 5
+    },
+    {
+        "strAreaCategory": "Vegetarian",
+        "type": "Categories",
+        "imagePath": "/assets/vegetarian.jpg",
+        "_id": 6
+    }
+]
